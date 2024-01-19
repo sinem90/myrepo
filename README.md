@@ -1,2 +1,2 @@
 # myrepo
-A test repository for LGH
+Programming languages Bash C C++ CSS HTML Java JavaScript Python SQL TypeScript
